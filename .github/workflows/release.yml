@@ -47,12 +47,6 @@ jobs:
           - os: ubuntu-latest
             target: x86_64-unknown-linux-gnu
             exe: vass
-          - os: macos-latest
-            target: aarch64-apple-darwin
-            exe: vass
-          - os: macos-13
-            target: x86_64-apple-darwin
-            exe: vass
           - os: windows-latest
             target: x86_64-pc-windows-msvc
             exe: vass.exe
@@ -154,8 +148,6 @@ jobs:
           subject-path: |
             dist/*.zip
             dist/vass-x86_64-unknown-linux-gnu
-            dist/vass-aarch64-apple-darwin
-            dist/vass-x86_64-apple-darwin
             dist/vass-x86_64-pc-windows-msvc.exe
             dist/SHA256SUMS.txt
             dist/SHA256SUMS.txt.sha256

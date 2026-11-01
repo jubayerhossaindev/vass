@@ -5,7 +5,7 @@
 [![Crates.io](https://img.shields.io/crates/v/vass.svg)](https://crates.io/crates/vass)
 [![Documentation](https://docs.rs/vass/badge.svg)](https://docs.rs/vass)
 [![License](https://img.shields.io/badge/license-MIT%2FApache--2.0-blue.svg)](LICENSE)
-[![Build Status](https://github.com/vass-css/vass/workflows/CI/badge.svg)](https://github.com/vass-css/vass/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/jubayerhossaindev/vass/ci.yml/badge.svg)](https://github.com/jubayerhossaindev/vass/actions)
 
 **A fast, feature-rich CSS preprocessor written in Rust**
 

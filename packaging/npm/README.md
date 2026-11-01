@@ -2,10 +2,11 @@
 
 VASS — A modern, fast CSS preprocessor CLI written in Rust. Compiles `.vass` (indented syntax) and `.vcss` (bracket syntax) files into optimized, standards-compliant CSS.
 
-[![GitHub release](https://img.shields.io/github/v/release/vass-css/vass)](https://github.com/vass-css/vass/releases)
+[![GitHub release](https://img.shields.io/github/v/release/jubayerhossaindev/vass)](https://github.com/jubayerhossaindev/vass/releases)
 [![License: Apache-2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen.svg)](https://nodejs.org/)
 [![Rust](https://img.shields.io/badge/rust-1.75+-orange.svg)](https://rust-lang.org/)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/jubayerhossaindev/vass/ci.yml/badge.svg)](https://github.com/jubayerhossaindev/vass/actions)
 
 ## Installation
 

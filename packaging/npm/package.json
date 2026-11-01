@@ -21,13 +21,11 @@
     "node": ">=18"
   },
   "os": [
-    "darwin",
     "linux",
     "win32"
   ],
   "cpu": [
-    "x64",
-    "arm64"
+    "x64"
   ],
   "bin": {
     "vass": "bin/vass.js"
